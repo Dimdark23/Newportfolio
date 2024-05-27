@@ -23,22 +23,22 @@ title: Home
       </p>
 		<div class="grid-container">
         <div class="card">
-            <img src="sculptor/Bobo2.jpg"alt="Landscape Image">
+            <img src="/image/Bobo.jpg"alt="Landscape Image">
             <h3>Bobo</h3>
             <p>That made by air clay from object made small figure based on my culture talisman.</p>
 			</div>
         <div class="card">
-            <img src="sculptor/Relax.jpg" alt="Portrait Image">
+            <img src="/image/Relax.jpg" alt="Portrait Image">
             <h3>Relax</h3>
             <p>This air clay is based on my previous work, ‘Bobo,’ which transformed animal style.</p>
         </div>
         <div class="card">
-            <img src="sculptor/Chukcha2.jpg" alt="Landscape Image">
+            <img src="/image/Chukcha2.jpg" alt="Landscape Image">
             <h3>Chukcha&nbsp;</h3>
             <p>This made from plaster and used craving tools, represents the Siberian ethnic group native to the Chukchi.</p>
         </div>
         <div class="card">
-            <img src="sculptor/Skyfisher6.jpg">
+            <img src="/image/Skyfisher6.jpg">
             <h3>Sky fisher</h3>
             <p>This  different materials, such as cane, plastic, and other items, to show that we can use ‘garbage’ to build unique art sculptures.</p>
         </div>
@@ -53,13 +53,13 @@ title: Home
       </p>
     <div class="slider-container">
         <div class="slide active">
-            <img src="image/Gforest.jpg" alt="Slide Image 1">
+            <img src="/image/Gforest.jpg" alt="Slide Image 1">
         </div>
         <div class="slide">
-            <img src="image/landscapetrain.jpg" alt="Slide Image 2">
+            <img src="/image/landscapetrain.jpg" alt="Slide Image 2">
         </div>
         <div class="slide">
-            <img src="image/Sunset1.jpg" alt="Slide Image 3">
+            <img src="/image/Sunset1.jpgg" alt="Slide Image 3">
         </div>
         <!-- Navigation Controls -->
         <a class="prev" onclick="moveSlide(-1)">&#10094;</a>
