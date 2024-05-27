@@ -296,33 +296,6 @@ body {
     .prev:hover, .next:hover {
         background-color: rgba(0,0,0,0.8);
     }
+   
     
-    .footer {
-        background-color:  #296E85;
-        color: white;
-        padding: 20px;
-        text-align: center;
-      }
-    
-      .footer-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-        padding: 20px;
-      }
-    
-      .footer-section {
-        flex: 1 1 200px; /* Flex item can grow, can shrink, and basis is 200px */
-        margin: 10px;
-        min-width: 150px; /* Ensures that the content has a readable min-width */
-      }
-    
-      @media (max-width: 600px) {
-        .footer {
-          text-align: center;
-        }
-    
-        .footer-container {
-          flex-direction: column;
-          align-items: center;
-        }
+     
