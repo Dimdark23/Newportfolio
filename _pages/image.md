@@ -97,7 +97,7 @@ title: Image
         <p class="caption">Light Moon </p>
       </div>
 		<div class="image-container">
-        <img src="/mage/storesky.jpg" alt="Landscape Image 10" title="Landscape Image 10">
+        <img src="/image/storesky.jpg.jpg" alt="Landscape Image 10" title="Landscape Image 10">
         <p class="caption">Morning Store</p>
       </div>
 		<div class="image-container">
