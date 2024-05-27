@@ -1,0 +1,16 @@
+{
+  "name": "newportfolio",
+  "version": "1.0.0",
+  "description": "My 11ty portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "start": "npm run serve"
+  },
+  "author": "Mukhiddin Anvarov",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
