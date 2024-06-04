@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Animatin
+css: styles5.css
 ---
 
 <h1>Animatoin  </h1>

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Image
+css: styles1.css
 ---
 
  <section class="gallery">

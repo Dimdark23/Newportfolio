@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: About
+css: styles3.css
 ---
 
 <div class="container">
