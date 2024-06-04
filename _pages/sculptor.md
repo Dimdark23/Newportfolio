@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 title: Sculptor 
+css: styles2.css
 ---
 <h1>Sculptor</h1>
 	<div class="container">
