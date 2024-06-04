@@ -1,11 +1,11 @@
 ---
 layout: base.njk
 title: Home
-css: styles.css
+css: stylesmain.css
 ---
 
 <header>
-        <div class="container">
+        <div class="container2">
             <div class="text-area">
             <h1>My name is Anvarov Mukhiddin!</h1>
              <p>Welcome to my portfolio website.</p>

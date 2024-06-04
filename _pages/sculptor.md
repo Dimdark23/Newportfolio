@@ -4,7 +4,7 @@ title: Sculptor
 css: styles2.css
 ---
 <h1>Sculptor</h1>
-	<div class="container">
+	<div class="container2">
   
     <div class="slideshow">
         <div class="slides">
@@ -21,13 +21,13 @@ css: styles2.css
 The figure appears engaged in laughter or deep enjoyment, highlighted by the closed eyes and wide, open mouth. The craftsmanship in sculpting the detailed facial features and the flowing lines of the body demonstrates a high level of skill and artistic interpretation of cultural themes.</p>
     </div>
 </div>
-	<div class="container">
+	<div class="container2">
   
     <div class="slideshow">
         <div class="slides">
             <img src="/image/Relax.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Relax2.jpg" class="slide">
-            <img src="/image/Relax3.jpg.jpg" alt="Slide 3" class="slide">
+            <img src="/image/Relax3.jpg" alt="Slide 3" class="slide">
         </div>
         <button class="btn prev">&#10094;</button>
         <button class="btn next">&#10095;</button>
@@ -37,7 +37,7 @@ The figure appears engaged in laughter or deep enjoyment, highlighted by the clo
         <p>The " Relax " sculpture is an engaging and expressive transformation of the previous figure, "Bobo." Made from air clay, this piece continues exploring joy and relaxation themes central to the series. This sculpture is shaped like a cat, emphasizing a relaxed and leisurely posture that captures the essence of feline tranquility. The sculpture's playful yet serene demeanor embodies the typical cat's characteristic of finding comfort in the most peaceful surroundings. The rounded contours and smooth finish of the air clay enhance its approachable and soothing appearance, making it a charming representation of a cat at rest.</p>
     </div>
 </div>
-	<div class="container">
+	<div class="container2">
   
     <div class="slideshow">
         <div class="slides">
@@ -55,7 +55,7 @@ The body is stout and rounded, with arms folded across its midsection, suggestin
 </p>
     </div>
 </div>
-	<div class="container">
+	<div class="container2">
   
     <div class="slideshow">
         <div class="slides">
