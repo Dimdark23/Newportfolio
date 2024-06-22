@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Home
-css: 
+css: stylesmain.css
 ---
 
 <header>
@@ -17,7 +17,7 @@ css:
     </header>
 
 	
-	<section class="scul">
+<section class="scul">
   <h2 class="title">Sculptor</h2>
       <p class="text">
         A sculptor is an artist who creates three-dimensional artworks by shaping materials like stone, metal, or clay. They use techniques such as carving, modeling, and casting to make pieces ranging from realistic figures to abstract forms, often requiring a blend of creativity and technical skill.
@@ -45,9 +45,9 @@ css:
         </div>
     </div>
     
-  </section>
+</section>
 	
-	<section class="slive">
+<section class="slive">
   <h2 class="title">Gallery Photos</h2>
       <p class="text">
         That slide show my sample of my works.
