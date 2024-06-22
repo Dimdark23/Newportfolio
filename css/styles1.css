@@ -1,24 +1,3 @@
-body {
-margin:0;
-font-family: "Nonexistent-Font", monospace;
-background-color: #ADD8E6;}
-h1, h2 {
-	font-family: "Nonexistent-Font", monospace;
-	text-align: center;}
-h1 {
-	color: #050A30;
- font-size: 7vw;
-}
-p{
-	color: #050A30;
-	font-family: "EB Garamond";
-	font-size: 20px;}
- 
-
-
-body {
-  font-family: Arial, sans-serif;
-}
 
 .gallery h1 {
   text-align: center;

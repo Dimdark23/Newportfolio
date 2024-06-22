@@ -51,8 +51,8 @@ css: styles2.css
  <div class="text-content">
       <h2> Chukcha</h2>
         <p>The sculpture, "Chukcha," is a minimalist representation of a human figure crafted from plaster, which gives it a smooth and tactile matte finish. This material choice adds to the piece's gentle and serene presentation. The figure features a broad, oversized hat and a simplistic face with subdued facial features, conveying a calm and introspective expression.
-The body is stout and rounded, with arms folded across its midsection, suggesting a reflective or self-contained posture. The smooth contours and uniformity of the plaster emphasize a sense of stillness and introspection. The overall symmetry and sturdy base of the sculpture impart a sense of stability and groundedness.
-</p>
+        The body is stout and rounded, with arms folded across its midsection, suggesting a reflective or self-contained posture. The smooth contours and uniformity of the plaster emphasize a sense of stillness and introspection. The overall symmetry and sturdy base of the sculpture impart a sense of stability and groundedness.
+        </p>
     </div>
 </div>
 <div class="container2">
