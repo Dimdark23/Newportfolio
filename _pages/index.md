@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Home
-css: stylesmain.css
+css: 
 ---
 
 <header>
