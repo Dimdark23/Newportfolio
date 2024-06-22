@@ -4,7 +4,7 @@ title: Website
 css: styles4.css
 ---
 <h1>Other examples my Website</h1>
-	<div class="grid">
+	<div class="gridweb">
 		
   <a href="https://dimdark23.github.io/Boston99/Boston.html">
 	  <h2> Trips to Boston</h2>

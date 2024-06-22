@@ -21,5 +21,5 @@ css: styles5.css
     </section>
     <section id="gif" class="media-section">
 		<h2>After Photoshop </h2>
-        <img src="/vid/vedeosolorpsd.gif" alt="Descriptive Alt Text">
+        <img src="/vid/vedeosolorpsd.gif" alt="Photoshop gif">
     </section>

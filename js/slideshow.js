@@ -1,40 +1,23 @@
-document.addEventListener('DOMContentLoaded', function () {
-    let slideshows = document.querySelectorAll('.slideshow');
-    slideshows.forEach(initSlideshow);
-  });
-  
-  function initSlideshow(slideshow) {
-    let slides = slideshow.getElementsByClassName('slide');
-    let currentIndex = 0;
-    slides[currentIndex].style.display = 'block'; // Show first slide initially
-  
-    const prevButton = slideshow.getElementsByClassName('prev')[0];
-    const nextButton = slideshow.getElementsByClassName('next')[0];
-  
-    prevButton.addEventListener('click', function() {
-      moveSlide(slideshow, slides, -1);
-    });
-  
-    nextButton.addEventListener('click', function() {
-      moveSlide(slideshow, slides, 1);
-    });
-  
+let slideIndex = 1;
+showSlide(slideIndex);
+
+function moveSlide(n) {
+    showSlide(slideIndex += n);
+}
+
+function showSlide(n) {
+    let i;
+    let slides = document.getElementsByClassName("slide");
+    if (n > slides.length) { slideIndex = 1 }
+    if (n < 1) { slideIndex = slides.length }
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slides[slideIndex - 1].style.display = "block";
+}
+
+window.onload = function () {
     setInterval(function () {
-      moveSlide(slideshow, slides, 1);
-    }, 5000);
-  }
-  
-  function moveSlide(slideshow, slides, step) {
-    let currentSlide = slideshow.querySelector('.slide.active');
-    currentSlide.style.display = 'none'; // Hide current slide
-    currentSlide.classList.remove('active');
-  
-    let newIndex = (currentIndex(slides, currentSlide) + step + slides.length) % slides.length;
-    slides[newIndex].style.display = 'block';
-    slides[newIndex].classList.add('active');
-  }
-  
-  function currentIndex(slides, currentSlide) {
-    return Array.from(slides).indexOf(currentSlide);
-  }
-  
+        moveSlide(1);
+    }, 3000); // Change image every 3 seconds
+}

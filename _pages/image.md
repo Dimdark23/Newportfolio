@@ -14,7 +14,7 @@ css: styles1.css
     </div>
     <div id="photoshop" class="tab-content">
       <div class="image-container">
-        <img src="/image/desertcos1.jpg" alt="Photoshop Image 1" title="hotoshop Image 1">
+        <img src="/image/desertcos1.jpg" alt="Photoshop Image 1" title="Photoshop Image 1">
         <p class="caption">Galaxy dessert </p>
       </div>
       <div class="image-container">
@@ -62,7 +62,7 @@ css: styles1.css
     </div>
     <div id="landscape" class="tab-content">
       <div class="image-container">
-        <img src="i/mage/Building.jpg" alt="Landscape Image 1" title="Landscape Image 1">
+        <img src="/image/Building.jpg" alt="Landscape Image 1" title="Landscape Image 1">
         <p class="caption">BBuilding </p>
       </div>
       <div class="image-container">
@@ -98,7 +98,7 @@ css: styles1.css
         <p class="caption">Light Moon </p>
       </div>
 		<div class="image-container">
-        <img src="/image/storesky.jpg.jpg" alt="Landscape Image 10" title="Landscape Image 10">
+        <img src="/image/storesky.jpg" alt="Landscape Image 10" title="Landscape Image 10">
         <p class="caption">Morning Store</p>
       </div>
 		<div class="image-container">

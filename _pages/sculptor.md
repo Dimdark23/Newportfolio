@@ -7,7 +7,7 @@ css: styles2.css
 	<div class="container2">
   
     <div class="slideshow">
-        <div class="slides">
+        <div class="slidessul">
             <img src="/image/Bobo.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Bobo2.jpg" alt="Slide 2" class="slide">
             <img src="/image/Bobo3.jpg" alt="Slide 3" class="slide">
@@ -24,7 +24,7 @@ The figure appears engaged in laughter or deep enjoyment, highlighted by the clo
 	<div class="container2">
   
     <div class="slideshow">
-        <div class="slides">
+        <div class="slidessul">
             <img src="/image/Relax.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Relax2.jpg" class="slide">
             <img src="/image/Relax3.jpg" alt="Slide 3" class="slide">
@@ -40,7 +40,7 @@ The figure appears engaged in laughter or deep enjoyment, highlighted by the clo
 	<div class="container2">
   
     <div class="slideshow">
-        <div class="slides">
+        <div class="slidessul">
             <img src="/image/Chukcha2.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Chukcha3.jpg" alt="Slide 2" class="slide">
             <img src="/image/Chukcha4.jpg" alt="Slide 3" class="slide">
@@ -58,7 +58,7 @@ The body is stout and rounded, with arms folded across its midsection, suggestin
 	<div class="container2">
   
     <div class="slideshow">
-        <div class="slides">
+        <div class="slidessul">
             <img src="/image/Skyfisher.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Skyfisher6.jpg" alt="Slide 2" class="slide">
             <img src="/image/Skyfisher9.jpg" alt="Slide 3" class="slide">

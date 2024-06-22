@@ -4,7 +4,7 @@ title: About
 css: styles3.css
 ---
 
-<div class="container">
+<div class="containerabout">
         <div class="profile">
             <img src="/image/Myself .jpg" alt="Mukhiddin Anvarov">
         </div>

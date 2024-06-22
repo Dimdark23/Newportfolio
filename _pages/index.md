@@ -5,7 +5,7 @@ css: stylesmain.css
 ---
 
 <header>
-        <div class="container2">
+        <div class="container">
             <div class="text-area">
             <h1>My name is Anvarov Mukhiddin!</h1>
              <p>Welcome to my portfolio website.</p>
@@ -53,14 +53,14 @@ css: stylesmain.css
         That slide show my sample of my works.
       </p>
     <div class="slider-container">
-        <div class="slide active">
+        <div class="slidest active">
             <img src="/image/Gforest.jpg" alt="Slide Image 1">
         </div>
-        <div class="slide">
-            <img src="/image/landscapetrain.jpg" alt="Slide Image 2">
+        <div class="slidest">
+            <img src="/image/landscape(1).jpg" alt="Slide Image 2">
         </div>
-        <div class="slide">
-            <img src="/image/Sunset1.jpgg" alt="Slide Image 3">
+        <div class="slidest">
+            <img src="/image/Sunset1.jpg" alt="Slide Image 3">
         </div>
         <!-- Navigation Controls -->
         <a class="prev" onclick="moveSlide(-1)">&#10094;</a>
