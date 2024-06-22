@@ -10,16 +10,15 @@ css: styles5.css
         <video controls>
             <source src="/vid/chaos_1.mp4" type="video/mp4">
            
-        </video>
-    </section>
-    <section id="video2" class="media-section">
+         </video>
+      </section>
+ <section id="video2" class="media-section">
 		<h2>Adobe Animation</h2>
         <video controls>
             <source src="/vid/Dark.mp4" type="video/mp4">
-           
         </video>
-    </section>
-    <section id="gif" class="media-section">
+ </section>
+ <section id="gif" class="media-section">
 		<h2>After Photoshop </h2>
         <img src="/vid/vedeosolorpsd.gif" alt="Photoshop gif">
-    </section>
+  </section>

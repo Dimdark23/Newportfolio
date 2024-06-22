@@ -11,43 +11,44 @@ css: styles2.css
             <img src="/image/Bobo.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Bobo2.jpg" alt="Slide 2" class="slide">
             <img src="/image/Bobo3.jpg" alt="Slide 3" class="slide">
-     </div>
-        <button class="btn prev">&#10094;</button>
-        <button class="btn next">&#10095;</button>
-    </div>
- <div class="text-content">
-      <h2> Bobo </h2>
+          </div>
+               <button class="btn prev">&#10094;</button>
+                <button class="btn next">&#10095;</button>
+            </div>
+     <div class="text-content">
+         <h2> Bobo </h2>
         <p>The "Bobo" sculpture is a compelling representation of traditional Uzbek culture, crafted with meticulous attention to detail from air clay. This piece showcases a figure in a relaxed, reclining pose, embodying a sense of contentment and cultural significance. The sculpture is characterized by its smooth, rounded forms and a distinct facial expression that captures a serene and joyful demeanor. The figure appears engaged in laughter or deep enjoyment, highlighted by the closed eyes and wide, open mouth. The craftsmanship in sculpting the detailed facial features and the flowing lines of the body demonstrates a high level of skill and artistic interpretation of cultural themes.</p>
- </div>
+      </div>
 </div>
-	<div class="container2">
+
+<div class="container2">
   
-    <div class="slideshow">
-        <div class="slidessul">
+ <div class="slideshow">
+      <div class="slidessul">
             <img src="/image/Relax.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Relax2.jpg" class="slide">
             <img src="/image/Relax3.jpg" alt="Slide 3" class="slide">
-        </div>
-        <button class="btn prev">&#10094;</button>
-        <button class="btn next">&#10095;</button>
-    </div>
-    <div class="text-content">
+          </div>
+                 <button class="btn prev">&#10094;</button>
+                 <button class="btn next">&#10095;</button>
+          </div>
+     <div class="text-content">
       <h2> Relax </h2>
         <p>The " Relax " sculpture is an engaging and expressive transformation of the previous figure, "Bobo." Made from air clay, this piece continues exploring joy and relaxation themes central to the series. This sculpture is shaped like a cat, emphasizing a relaxed and leisurely posture that captures the essence of feline tranquility. The sculpture's playful yet serene demeanor embodies the typical cat's characteristic of finding comfort in the most peaceful surroundings. The rounded contours and smooth finish of the air clay enhance its approachable and soothing appearance, making it a charming representation of a cat at rest.</p>
-    </div>
+ </div>
 </div>
-	<div class="container2">
+<div class="container2">
   
-    <div class="slideshow">
-        <div class="slidessul">
+ <div class="slideshow">
+     <div class="slidessul">
             <img src="/image/Chukcha2.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Chukcha3.jpg" alt="Slide 2" class="slide">
             <img src="/image/Chukcha4.jpg" alt="Slide 3" class="slide">
-        </div>
-        <button class="btn prev">&#10094;</button>
-        <button class="btn next">&#10095;</button>
-    </div>
-    <div class="text-content">
+           </div>
+           <button class="btn prev">&#10094;</button>
+           <button class="btn next">&#10095;</button>
+      </div>
+ <div class="text-content">
       <h2> Chukcha</h2>
         <p>The sculpture, "Chukcha," is a minimalist representation of a human figure crafted from plaster, which gives it a smooth and tactile matte finish. This material choice adds to the piece's gentle and serene presentation. The figure features a broad, oversized hat and a simplistic face with subdued facial features, conveying a calm and introspective expression.
 The body is stout and rounded, with arms folded across its midsection, suggesting a reflective or self-contained posture. The smooth contours and uniformity of the plaster emphasize a sense of stillness and introspection. The overall symmetry and sturdy base of the sculpture impart a sense of stability and groundedness.
