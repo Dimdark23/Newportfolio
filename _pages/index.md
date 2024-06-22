@@ -53,13 +53,13 @@ css: stylesmain.css
         That slide show my sample of my works.
       </p>
     <div class="slider-container">
-        <div class="slidest active">
+        <div class="slide active">
             <img src="/image/Gforest.jpg" alt="Slide Image 1">
         </div>
-        <div class="slidest">
+        <div class="slide">
             <img src="/image/landscape(1).jpg" alt="Slide Image 2">
         </div>
-        <div class="slidest">
+        <div class="slide">
             <img src="/image/Sunset1.jpg" alt="Slide Image 3">
         </div>
         <!-- Navigation Controls -->
