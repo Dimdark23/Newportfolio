@@ -15,4 +15,4 @@ css: styles3.css
             <p>I am proficient in various design tools and languages, including Photoshop, Illustrator, Figma, and HTML/CSS. My recent projects involve using Adobe Animation and After Effects, which increased viewer retention rates by 25%.</p>
         </div>
     </div>
-
+</div>
