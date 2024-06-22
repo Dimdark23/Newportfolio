@@ -4,22 +4,21 @@ title: Sculptor
 css: styles2.css
 ---
 <h1>Sculptor</h1>
-	<div class="container2">
+<div class="container2">
   
-    <div class="slideshow">
-        <div class="slidessul">
+ <div class="slideshow">
+     <div class="slidessul">
             <img src="/image/Bobo.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Bobo2.jpg" alt="Slide 2" class="slide">
             <img src="/image/Bobo3.jpg" alt="Slide 3" class="slide">
-        </div>
+     </div>
         <button class="btn prev">&#10094;</button>
         <button class="btn next">&#10095;</button>
     </div>
-    <div class="text-content">
+ <div class="text-content">
       <h2> Bobo </h2>
-        <p>The " Bobo " sculpture is a compelling representation of traditional Uzbek culture, crafted with meticulous attention to detail from air clay. This piece showcases a figure in a relaxed, reclining pose, embodying a sense of contentment and cultural significance. The sculpture is characterized by its smooth, rounded forms and a distinct facial expression that captures a serene and joyful demeanor.
-The figure appears engaged in laughter or deep enjoyment, highlighted by the closed eyes and wide, open mouth. The craftsmanship in sculpting the detailed facial features and the flowing lines of the body demonstrates a high level of skill and artistic interpretation of cultural themes.</p>
-    </div>
+        <p>The "Bobo" sculpture is a compelling representation of traditional Uzbek culture, crafted with meticulous attention to detail from air clay. This piece showcases a figure in a relaxed, reclining pose, embodying a sense of contentment and cultural significance. The sculpture is characterized by its smooth, rounded forms and a distinct facial expression that captures a serene and joyful demeanor. The figure appears engaged in laughter or deep enjoyment, highlighted by the closed eyes and wide, open mouth. The craftsmanship in sculpting the detailed facial features and the flowing lines of the body demonstrates a high level of skill and artistic interpretation of cultural themes.</p>
+ </div>
 </div>
 	<div class="container2">
   
