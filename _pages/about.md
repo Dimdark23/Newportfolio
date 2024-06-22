@@ -14,5 +14,4 @@ css: styles3.css
             <p>In my previous role, I led the design and implementation of a comprehensive branding project that included creating a new logo, marketing materials, and an interactive website. This project utilized my skills in Photoshop, Illustrator, and HTML/CSS, resulting in a 30% increase in online engagement for the client.</p>
             <p>I am proficient in various design tools and languages, including Photoshop, Illustrator, Figma, and HTML/CSS. My recent projects involve using Adobe Animation and After Effects, which increased viewer retention rates by 25%.</p>
         </div>
-    </div>
-</div>
+ </div>
