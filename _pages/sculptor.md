@@ -63,13 +63,13 @@ The body is stout and rounded, with arms folded across its midsection, suggestin
             <img src="/image/Skyfisher6.jpg" alt="Slide 2" class="slide">
             <img src="/image/Skyfisher9.jpg" alt="Slide 3" class="slide">
         </div>
-        <button class="btn prev">&#10094;</button>
-        <button class="btn next">&#10095;</button>
+               <button class="btn prev">&#10094;</button>
+               <button class="btn next">&#10095;</button>
     </div>
     <div class="text-content">
       <h2> Sky Fishing</h2>
         <p>The sculpture "Sky Fisher" is a creative and intricate piece made predominantly from recycled materials. This artwork skillfully combines various discarded objects into a form reminiscent of a whimsical flying creature. The body of the sculpture appears to be constructed from aluminum cans and plastic bottles, creatively cut and bent to shape the creature's torso and wings. Vibrant colors from the labels of the recycled materials add a dynamic and playful aesthetic to the sculpture.
-The head of the sculpture is from a green bottle with eyes that might be made from small caps or similar items, giving it a lively and expressive character. Additional elements like plastic, straws, and other miscellaneous items are  to create detailed features such as feathers and the tail, enhancing the texture and realism of the piece. The sculpture is suspended by strings, suggesting that it  to represent a creature in flight, possibly interacting with its environment through the fishing line extending from its beak, which aligns with its name, "Sky Fisher."
-</p>
+        The head of the sculpture is from a green bottle with eyes that might be made from small caps or similar items, giving it a lively and expressive character. Additional elements like plastic, straws, and other miscellaneous items are  to create detailed features such as feathers and the tail, enhancing the texture and realism of the piece. The sculpture is suspended by strings, suggesting that it  to represent a creature in flight, possibly interacting with its environment through the fishing line extending from its beak, which aligns with its name, "Sky Fisher."
+       </p>
     </div>
 </div>
