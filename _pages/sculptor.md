@@ -55,9 +55,9 @@ The body is stout and rounded, with arms folded across its midsection, suggestin
 </p>
     </div>
 </div>
-	<div class="container2">
+<div class="container2">
   
-    <div class="slideshow">
+ <div class="slideshow">
         <div class="slidessul">
             <img src="/image/Skyfisher.jpg" alt="Slide 1" class="slide active">
             <img src="/image/Skyfisher6.jpg" alt="Slide 2" class="slide">
